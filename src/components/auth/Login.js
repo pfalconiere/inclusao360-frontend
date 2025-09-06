@@ -82,9 +82,9 @@ const Login = () => {
           </div>
 
           <div className="text-center">
-            <a href="#" className="text-sm text-blue-600 hover:text-blue-800">
+            <button className="text-sm text-blue-600 hover:text-blue-800">
               Esqueci minha senha
-            </a>
+            </button>
           </div>
 
           <Button 
