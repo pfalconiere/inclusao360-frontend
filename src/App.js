@@ -1,6 +1,6 @@
 // src/App.js
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import SplashScreen from './pages/SpashScreen';
 import MainPage from './pages/MainPage';
@@ -10,7 +10,7 @@ import Dashboard from './pages/Dashboard';
 
 function App() {
   return (
-    <Router basename={process.env.NODE_ENV === 'production' ? '/inclusao360-frontend' : ''}>
+    <Router>
       <div className="App">
         <Routes>
           <Route path="/" element={<SplashScreen />} />
