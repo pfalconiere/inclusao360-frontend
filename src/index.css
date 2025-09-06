@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mobile-container {
+  max-width: 430px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: white;
+  position: relative;
+}
+
+/* Estilos básicos para substituir Tailwind temporariamente */
+.min-h-screen { min-height: 100vh; }
+.bg-gray-50 { background-color: #f9fafb; }
+.bg-gradient-to-br { background: linear-gradient(to bottom right, var(--tw-gradient-stops)); }
+.from-blue-500 { --tw-gradient-from: #3b82f6; }
+.to-blue-700 { --tw-gradient-to: #1d4ed8; }
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
+.text-white { color: white; }
+.text-center { text-align: center; }
+.text-4xl { font-size: 2.25rem; }
+.font-bold { font-weight: bold; }
+.mb-8 { margin-bottom: 2rem; }
+.animate-spin { animation: spin 1s linear infinite; }
+.rounded-full { border-radius: 9999px; }
+.h-12 { height: 3rem; }
+.w-12 { width: 3rem; }
+.border-b-2 { border-bottom-width: 2px; }
+.border-white { border-color: white; }
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
