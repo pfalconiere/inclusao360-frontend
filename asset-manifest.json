@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inclusao360-frontend/static/css/main.2e3f6b23.css",
+    "main.js": "/inclusao360-frontend/static/js/main.55fa5e65.js",
+    "static/js/453.a93d8427.chunk.js": "/inclusao360-frontend/static/js/453.a93d8427.chunk.js",
+    "index.html": "/inclusao360-frontend/index.html",
+    "main.2e3f6b23.css.map": "/inclusao360-frontend/static/css/main.2e3f6b23.css.map",
+    "main.55fa5e65.js.map": "/inclusao360-frontend/static/js/main.55fa5e65.js.map",
+    "453.a93d8427.chunk.js.map": "/inclusao360-frontend/static/js/453.a93d8427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3f6b23.css",
+    "static/js/main.55fa5e65.js"
+  ]
+}
