@@ -2,7 +2,7 @@
   "name": "inclusao360-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pfm-cesar-school.github.io/inclusao360-frontend",
+  "homepage": "https://pfalconiere.github.io/inclusao360-frontend",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.10",
     "@testing-library/dom": "^10.4.1",

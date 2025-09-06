@@ -2,14 +2,14 @@
 
 > Modern React application for accessibility and inclusion platform with comprehensive test coverage and mobile-first design.
 
-[![CI/CD Pipeline](https://github.com/pfm-cesar-school/inclusao360-frontend/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/pfm-cesar-school/inclusao360-frontend/actions/workflows/ci-cd.yml)
-[![Tests](https://img.shields.io/badge/tests-60%20passing-brightgreen)](https://github.com/pfm-cesar-school/inclusao360-frontend)
-[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/pfm-cesar-school/inclusao360-frontend)
-[![Deploy Status](https://img.shields.io/badge/deploy-live-success)](https://pfm-cesar-school.github.io/inclusao360-frontend)
+[![CI/CD Pipeline](https://github.com/pfalconiere/inclusao360-frontend/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/pfalconiere/inclusao360-frontend/actions/workflows/ci-cd.yml)
+[![Tests](https://img.shields.io/badge/tests-60%20passing-brightgreen)](https://github.com/pfalconiere/inclusao360-frontend)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/pfalconiere/inclusao360-frontend)
+[![Deploy Status](https://img.shields.io/badge/deploy-live-success)](https://pfalconiere.github.io/inclusao360-frontend)
 
 ## 🚀 Live Demo
 
-**✨ [Access Live Application](https://pfm-cesar-school.github.io/inclusao360-frontend)**
+**✨ [Access Live Application](https://pfalconiere.github.io/inclusao360-frontend)**
 
 ## 📱 Features
 
@@ -72,7 +72,7 @@ Our test suite includes **60 comprehensive tests** covering:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pfm-cesar-school/inclusao360-frontend.git
+git clone https://github.com/pfalconiere/inclusao360-frontend.git
 cd inclusao360-frontend
 
 # Install dependencies
