@@ -10,7 +10,7 @@ import Dashboard from './pages/Dashboard';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.NODE_ENV === 'production' ? '/inclusao360-frontend' : ''}>
       <div className="App">
         <Routes>
           <Route path="/" element={<SplashScreen />} />
